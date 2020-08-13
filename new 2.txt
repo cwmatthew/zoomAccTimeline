@@ -1,8 +1,0 @@
-Client ID
-337195201425-sfk8c327b5dpntesu9ead86agc6pio9u.apps.googleusercontent.com
-
-Client Secret
-337195201425-sfk8c327b5dpntesu9ead86agc6pio9u.apps.googleusercontent.com
-
-API KEY
-AIzaSyBfKaH25mcJBGx0TTWavGKAdjCRHS39B3A
