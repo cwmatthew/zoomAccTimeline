@@ -21,12 +21,17 @@ function handleSampleDataQueryResponse(response) {
   var data = response.getDataTable();
   var chart = new google.visualization.Timeline(document.getElementById('timeline'));
   
-  var options = {
-     timeline: { groupByRowLabel: true },
+  /* var options = {
+     timeline: { avoidOverlappingGridLines: true,
+                  groupByRowLabel: true },
      backgroundColor: '#ffe',
-     width:16000,
+     width:6000,
      height:800
-   };
+   }; */
+   var options2 = {
+          width:20000,
+          height:600
+      };
 
-   chart.draw(data, options);
+   chart.draw(data, options2);
 }
