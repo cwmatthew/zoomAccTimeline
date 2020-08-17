@@ -24,8 +24,8 @@ function handleSampleDataQueryResponse(response) {
   var options = {
      timeline: { groupByRowLabel: true },
      backgroundColor: '#ffe',
-     width:8000,
-     height:600
+     width:16000,
+     height:800
    };
 
    chart.draw(data, options);
