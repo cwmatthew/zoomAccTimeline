@@ -29,8 +29,8 @@ function handleSampleDataQueryResponse(response) {
      height:800
    }; */
    var options2 = {
-          width:9000,
-          height:600
+          width:8000,
+          height:800
       };
 
    chart.draw(data, options2);
