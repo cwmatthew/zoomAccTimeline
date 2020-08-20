@@ -29,7 +29,7 @@ function handleSampleDataQueryResponse(response) {
      height:800
    }; */
    var options2 = {
-          width:8000,
+          width:10000,
           height:800
       };
 
